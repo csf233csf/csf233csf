@@ -5,6 +5,7 @@
 🌱 &nbsp;I'm on track for learning more about Natural Language Processing, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at lovekano233@gmail.com! I'll try to respond as soon as I can.\
 ✍️ &nbsp;I just finished writing my Project. Please have a look [here](https://www.thelighthouseproject.life/). I'm open to any feedback and suggestions!
+📄 &nbsp;My Résumé is under this git repo. If you are interested!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
