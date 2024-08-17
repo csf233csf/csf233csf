@@ -6,7 +6,7 @@
 ✉️ &nbsp;You can shoot me an email at lovekano233@gmail.com! I'll try to respond as soon as I can.\
 ✍️ &nbsp;I just finished writing my Project. Please have a look [here](https://www.thelighthouseproject.life/). I'm open to any feedback and suggestions!\
 ✍️ &nbsp;I am currently working on a RAG System [Repo](https://github.com/csf233csf/rag-is-all-you-need). Feedbacks and PR are much appreciated\
-📄 &nbsp;My Résumé is under this git repo [Résumé](https://github.com/csf233csf/csf233csf/blob/main/resume_git.pdf). If you are interested!
+📄 &nbsp;My Résumé is under this git repo [Résumé](https://github.com/csf233csf/csf233csf/blob/main//shifanchen2.pdf). If you are interested!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
