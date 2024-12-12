@@ -5,7 +5,7 @@
 🌱 &nbsp;I'm on track for learning more about Natural Language Processing, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at lovekano233@gmail.com! I'll try to respond as soon as I can.\
 ✍️ &nbsp;I just finished writing my Project. Please have a look [here](https://www.thelighthouseproject.life/). I'm open to any feedback and suggestions!\
-✍️ &nbsp;I am currently working on a RAG System [Repo](https://github.com/csf233csf/rag-is-all-you-need). Feedbacks and PR are much appreciated\
+✍️ &nbsp;I am currently working on a RAG System [Repo](https://github.com/csf233csf/rag-is-all-you-need). Feedbacks and PR are much appreciated
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
